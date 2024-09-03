@@ -1,2 +1,2 @@
-Process of building the clawton
+Process of building the clawbot
 
